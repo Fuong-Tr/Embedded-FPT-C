@@ -1,0 +1,4 @@
+../source/HAL/HAL_GPIO.c:15:6:HAL_GPIO_Init	24	static
+../source/HAL/HAL_GPIO.c:45:6:HAL_GPIO_Delay200us	16	static
+../source/HAL/HAL_GPIO.c:53:6:HAL_GPIO_Delay1s	16	static
+../source/HAL/HAL_GPIO.c:61:6:HAL_GPIO_Set_DutyCycle2s	32	static

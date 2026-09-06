@@ -1,0 +1,18 @@
+Phân chia công việc nhóm 5:
+Trần Khánh Phương:
+Khởi tạo đèn LED xanh lá
+Khởi tạo nút SW3
+Cấu hình bộ đếm SysTick
+Hà Thanh Tùng
+Chế độ 1 (Bật đèn LED)
+Chế độ 2 (Nhấp nháy đèn LED ở tần số 5Hz)
+Chế độ 3 (Đèn LED sáng dần)
+Nguyễn Thanh An 3
+Viết hàm xử lý ngắt cho nút SW3
+Viết hàm xử lý ngắt cho SysTick
+Triển khai máy trạng thái
+Nguyễn Thu Hiền
+Nhiệm vụ:
+Kiểm tra đơn vị (Unit Test)
+Kiểm tra tích hợp (Integration Test)
+Tối ưu hóa mã

@@ -1,0 +1,6 @@
+../source/DRIVER/Driver_GPIO.c:15:6:Driver_GPIO_CLK	16	static
+../source/DRIVER/Driver_GPIO.c:19:6:Driver_GPIO_MUX	16	static
+../source/DRIVER/Driver_GPIO.c:23:6:Driver_GPIO_Direction_Output	16	static
+../source/DRIVER/Driver_GPIO.c:27:6:Driver_GPIO_Output_Set	16	static
+../source/DRIVER/Driver_GPIO.c:31:6:Driver_GPIO_Output_Reset	16	static
+../source/DRIVER/Driver_GPIO.c:35:6:Driver_GPIO_Toggle	16	static
